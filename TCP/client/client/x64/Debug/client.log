@@ -1,0 +1,3 @@
+﻿  client.cpp
+C:\Users\User\OneDrive\桌面\c\client\client\client.cpp(62,56): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  client.vcxproj -> C:\Users\User\OneDrive\桌面\c\client\x64\Debug\client.exe

@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\User\OneDrive\桌面\c\server\server\server.cpp(21,54): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\User\OneDrive\桌面\c\server\server\server.cpp(49,64): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  server.vcxproj -> C:\Users\User\OneDrive\桌面\c\server\x64\Debug\server.exe
