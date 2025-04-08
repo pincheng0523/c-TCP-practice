@@ -24,17 +24,17 @@
 2. 使用 `Ctrl+F5` 執行（避免 console 自動關閉）
 
 ### ⚙️ Linux編譯方式
-# 編譯 server
+#### 編譯 server
 g++ src/server.cpp -o build/server -pthread
 
-# 編譯 client
+#### 編譯 client
 g++ src/client.cpp -o build/client
 
-▶️ 執行方式
-# Terminal 1
+#### ▶️ 執行方式
+##### Terminal 1
 ./build/server
 
-# Terminal 2
+#####  Terminal 2
 ./build/client
 
 
